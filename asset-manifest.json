@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5852d467.css",
+    "main.js": "/react-portfolio/static/js/main.e7ab252b.js",
+    "static/js/453.bb257cf5.chunk.js": "/react-portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/aws_logo.webp": "/react-portfolio/static/media/aws_logo.2ebb4ac1ee6399d50649.webp",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/kratos_logo.webp": "/react-portfolio/static/media/kratos_logo.a50fb7cc3c8183e14315.webp",
+    "static/media/rincon_logo.png": "/react-portfolio/static/media/rincon_logo.6a5c17b4bbb27b63a8bf.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5852d467.css.map": "/react-portfolio/static/css/main.5852d467.css.map",
+    "main.e7ab252b.js.map": "/react-portfolio/static/js/main.e7ab252b.js.map",
+    "453.bb257cf5.chunk.js.map": "/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5852d467.css",
+    "static/js/main.e7ab252b.js"
+  ]
+}
