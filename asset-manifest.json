@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5852d467.css",
-    "main.js": "/react-portfolio/static/js/main.e7ab252b.js",
+    "main.js": "/react-portfolio/static/js/main.adf63fba.js",
     "static/js/453.bb257cf5.chunk.js": "/react-portfolio/static/js/453.bb257cf5.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -13,11 +13,11 @@
     "static/media/rincon_logo.png": "/react-portfolio/static/media/rincon_logo.6a5c17b4bbb27b63a8bf.png",
     "index.html": "/react-portfolio/index.html",
     "main.5852d467.css.map": "/react-portfolio/static/css/main.5852d467.css.map",
-    "main.e7ab252b.js.map": "/react-portfolio/static/js/main.e7ab252b.js.map",
+    "main.adf63fba.js.map": "/react-portfolio/static/js/main.adf63fba.js.map",
     "453.bb257cf5.chunk.js.map": "/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5852d467.css",
-    "static/js/main.e7ab252b.js"
+    "static/js/main.adf63fba.js"
   ]
 }
