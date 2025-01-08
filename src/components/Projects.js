@@ -12,6 +12,15 @@ const projects = [
     image: '/react-portfolio/assets/portfolio.png', // Add image path or URL
   },
   // Add more projects here
+  {
+    title: 'ML Sales Forecasting',
+    description: 'An ML project that uses Walmart retail data to accurately forecast sales.',
+    technologies: ['Python', 'SKLearn'],
+    github: 'https://github.com/12joshuaslee/MLSalesForecast',
+    demo: '', // Add live demo link if available
+    image: '/react-portfolio/assets/ML_SF.png', // Add image path or URL
+  },
+
 ];
 
 const Projects = () => {
